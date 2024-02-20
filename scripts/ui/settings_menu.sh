@@ -23,7 +23,7 @@ function settings_ui() {
   ### custom repository
   custom_repo=$(echo "${custom_repo}" | sed "s/https:\/\/github\.com\///" | sed "s/\.git$//" )
   if [[ -z ${custom_repo} ]]; then
-    custom_repo="${cyan}Klipper3D/klipper${white}"
+    custom_repo="${cyan}MOMENT3D/klipper${white}"
   else
     custom_repo="${cyan}${custom_repo}${white}"
   fi

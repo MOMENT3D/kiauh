@@ -7,12 +7,12 @@
 # Back in KIAUH you can now go into -> [Settings] and use action '2' to set a different Klipper repository
 #
 # Make sure to always separate the repository and the branch with a ','.
-# <repository>,<branch> -> https://github.com/Klipper3d/klipper,master
+# <repository>,<branch> -> https://github.com/MOMENT3D/klipper,master
 # If you omit a branch, it will always default to 'master'
 #
 # You are allowed to omit the 'https://github.com/' part of the repository URL
 # Down below are now a few examples of what is considered as valid:
-https://github.com/Klipper3d/klipper,master
-https://github.com/Klipper3d/klipper
-Klipper3d/klipper,master
-Klipper3d/klipper
+https://github.com/MOMENT3D/klipper,master
+https://github.com/MOMENT3D/klipper
+MOMENT3D/klipper,master
+MOMENT3D/klipper

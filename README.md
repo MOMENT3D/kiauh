@@ -103,8 +103,8 @@ prompt and confirm by hitting ENTER.
 
 <table>
 <tr>
-<th><h3><a href="https://github.com/Klipper3d/klipper">Klipper</a></h3></th>
-<th><h3><a href="https://github.com/Arksine/moonraker">Moonraker</a></h3></th>
+<th><h3><a href="https://github.com/MOMENT3D/klipper">Klipper</a></h3></th>
+<th><h3><a href="https://github.com/MOMENT3D/moonraker">Moonraker</a></h3></th>
 <th><h3><a href="https://github.com/mainsail-crew/mainsail">Mainsail</a></h3></th>
 </tr>
 <tr>

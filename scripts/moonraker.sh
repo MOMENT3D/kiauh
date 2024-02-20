@@ -376,8 +376,8 @@ function print_mr_ip_list() {
 }
 
 ### introduced due to
-### https://github.com/Arksine/moonraker/issues/349
-### https://github.com/Arksine/moonraker/pull/346
+### https://github.com/MOMENT3De/moonraker/issues/349
+### https://github.com/MOMENT3De/moonraker/pull/346
 function install_moonraker_polkit() {
   local POLKIT_LEGACY_FILE="/etc/polkit-1/localauthority/50-local.d/10-moonraker.pkla"
   local POLKIT_FILE="/etc/polkit-1/rules.d/moonraker.rules"
@@ -567,7 +567,7 @@ function update_moonraker() {
     "${MOONRAKER_ENV}"/bin/pip install -r "${MOONRAKER_DIR}/scripts/moonraker-requirements.txt"
   fi
 
-  ### required due to https://github.com/Arksine/moonraker/issues/349
+  ### required due to https://github.com/MOMENT3De/moonraker/issues/349
   install_moonraker_polkit || true
 
   ok_msg "Update complete!"
