@@ -108,7 +108,7 @@ prompt and confirm by hitting ENTER.
 <tr>
 <th><h3><a href="https://github.com/MOMENT3D/klipper">Klipper</a></h3></th>
 <th><h3><a href="https://github.com/MOMENT3D/moonraker">Moonraker</a></h3></th>
-<th><h3><a href="https://github.com/MOMENT3D/mainsail">Mainsail</a></h3></th>
+<th><h3><a href="https://github.com/mainsail-crew/mainsail">Mainsail</a></h3></th>
 </tr>
 <tr>
 <th><img src="https://raw.githubusercontent.com/Klipper3d/klipper/master/docs/img/klipper-logo.png" alt="Klipper Logo" height="64"></th>
