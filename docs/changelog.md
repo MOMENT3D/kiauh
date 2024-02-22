@@ -9,7 +9,7 @@ to control your printer. Thank you to [Clon1998](https://github.com/Clon1998) fo
 
 ### 2023-02-03
 The installer for MJPG-Streamer got replaced by crowsnest. It is an improved webcam service, utilizing ustreamer. 
-Please have a look here for additional info about crowsnest and how to configure it: https://github.com/mainsail-crew/crowsnest \
+Please have a look here for additional info about crowsnest and how to configure it: https://github.com/MOMENT3D/crowsnest \
 It's unsure if the previous MJPG-Streamer installer will be updated and make its way back into KIAUH.
 A big thanks to [KwadFan](https://github.com/KwadFan) for writing the crowsnest implementation.
 

@@ -76,7 +76,7 @@ function set_globals() {
 
   #=============== Crowsnest ================#
   CROWSNEST_DIR="${HOME}/crowsnest"
-  CROWSNEST_REPO="https://github.com/mainsail-crew/crowsnest.git"
+  CROWSNEST_REPO="https://github.com/MOMENT3D/crowsnest.git"
 
   #=============== Mobileraker ================#
   MOBILERAKER_ENV="${HOME}/mobileraker-env"

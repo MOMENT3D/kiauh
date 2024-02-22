@@ -108,17 +108,17 @@ prompt and confirm by hitting ENTER.
 <tr>
 <th><h3><a href="https://github.com/MOMENT3D/klipper">Klipper</a></h3></th>
 <th><h3><a href="https://github.com/MOMENT3D/moonraker">Moonraker</a></h3></th>
-<th><h3><a href="https://github.com/mainsail-crew/mainsail">Mainsail</a></h3></th>
+<th><h3><a href="https://github.com/MOMENT3D/mainsail">Mainsail</a></h3></th>
 </tr>
 <tr>
 <th><img src="https://raw.githubusercontent.com/Klipper3d/klipper/master/docs/img/klipper-logo.png" alt="Klipper Logo" height="64"></th>
 <th><img src="https://avatars.githubusercontent.com/u/9563098?v=4" alt="Arksine avatar" height="64"></th>
-<th><img src="https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo.png" alt="Mainsail Logo" height="64"></th>
+<th><img src="https://raw.githubusercontent.com/MOMENT3D/docs/master/assets/img/logo.png" alt="Mainsail Logo" height="64"></th>
 </tr>
 <tr>
 <th>by <a href="https://github.com/KevinOConnor">KevinOConnor</a></th>
 <th>by <a href="https://github.com/Arksine">Arksine</a></th>
-<th>by <a href="https://github.com/mainsail-crew">mainsail-crew</a></th>
+<th>by <a href="https://github.com/MOMENT3D">MOMENT3D</a></th>
 </tr>
 <tr>
 <th><h3><a href="https://github.com/fluidd-core/fluidd">Fluidd</a></h3></th>
