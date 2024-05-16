@@ -1,4 +1,4 @@
-# Sonar for Moment
+# Kiauh for Moment
 Based on Kiauh. customized Moment.
 
 <p align="center">
