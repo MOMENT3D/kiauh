@@ -126,7 +126,7 @@ changes!**
 
 <table align="center">
 <tr>
-    <th><h3><a href="https://github.com/Klipper3d/klipper">Klipper</a></h3></th>
+    <th><h3><a href="https://github.com/MOMENT3D/klipper">Klipper</a></h3></th>
     <th><h3><a href="https://github.com/Arksine/moonraker">Moonraker</a></h3></th>
     <th><h3><a href="https://github.com/mainsail-crew/mainsail">Mainsail</a></h3></th>
 </tr>
@@ -143,7 +143,7 @@ changes!**
 
 <tr>
     <th><h3><a href="https://github.com/fluidd-core/fluidd">Fluidd</a></h3></th>
-    <th><h3><a href="https://github.com/KlipperScreen/KlipperScreen">KlipperScreen</a></h3></th>
+    <th><h3><a href="https://github.com/MOMENT3D/KlipperScreen">KlipperScreen</a></h3></th>
     <th><h3><a href="https://github.com/OctoPrint/OctoPrint">OctoPrint</a></h3></th>
 </tr>
 <tr>

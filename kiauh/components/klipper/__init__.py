@@ -11,7 +11,7 @@ from pathlib import Path
 
 MODULE_PATH = Path(__file__).resolve().parent
 
-KLIPPER_REPO_URL = "https://github.com/Klipper3d/klipper.git"
+KLIPPER_REPO_URL = "https://github.com/MOMENT3D/klipper.git"
 
 # names
 KLIPPER_LOG_NAME = "klippy.log"

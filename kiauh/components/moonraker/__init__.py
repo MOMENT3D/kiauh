@@ -11,7 +11,7 @@ from pathlib import Path
 
 MODULE_PATH = Path(__file__).resolve().parent
 
-MOONRAKER_REPO_URL = "https://github.com/Arksine/moonraker.git"
+MOONRAKER_REPO_URL = "https://github.com/MOMENT3D/moonraker.git"
 
 # names
 MOONRAKER_CFG_NAME = "moonraker.conf"

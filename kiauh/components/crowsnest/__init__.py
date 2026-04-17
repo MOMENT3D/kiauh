@@ -12,7 +12,7 @@ from pathlib import Path
 from core.constants import SYSTEMD
 
 # repo
-CROWSNEST_REPO = "https://github.com/mainsail-crew/crowsnest.git"
+CROWSNEST_REPO = "https://github.com/MOMENT3D/crowsnest.git"
 
 # names
 CROWSNEST_SERVICE_NAME = "crowsnest.service"

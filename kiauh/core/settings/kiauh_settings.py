@@ -346,13 +346,13 @@ class KiauhSettings:
             "\n\n",
             "● Old format:",
             "  [klipper]",
-            "  repo_url: https://github.com/Klipper3d/klipper",
+            "  repo_url: https://github.com/MOMENT3D/klipper",
             "  branch: master",
             "\n\n",
             "● New format:",
             "  [klipper]",
             "  repositories:",
-            "      https://github.com/Klipper3d/klipper, master",
+            "      https://github.com/MOMENT3D/klipper, master",
         ]
         Logger.print_dialog(
             DialogType.ATTENTION,

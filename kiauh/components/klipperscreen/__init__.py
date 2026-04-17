@@ -11,7 +11,7 @@ from pathlib import Path
 from core.constants import SYSTEMD
 
 # repo
-KLIPPERSCREEN_REPO = "https://github.com/KlipperScreen/KlipperScreen.git"
+KLIPPERSCREEN_REPO = "https://github.com/MOMENT3D/KlipperScreen.git"
 
 # names
 KLIPPERSCREEN_SERVICE_NAME = "KlipperScreen.service"
